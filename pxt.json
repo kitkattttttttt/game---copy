@@ -1,0 +1,50 @@
+{
+    "name": "game - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.61",
+        "tag": "v1.12.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/ca55e606e8e9dc22645e01ace221016fe52ca101",
+        "target": "1.12.61",
+        "pxt": "8.5.71",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#C70000",
+        "#DB6A00",
+        "#EBD700",
+        "#008A10",
+        "#00A2C2",
+        "#000BA8",
+        "#8400C2",
+        "#C200A8",
+        "#E8CFAB",
+        "#975A20",
+        "#000000",
+        "#4D2200",
+        "#525252",
+        "#FFFFFF",
+        "#025C00"
+    ]
+}
